@@ -67,3 +67,19 @@ document.getElementById("page2").onclick = function(){
    document.getElementById("frame2").setAttribute("class", "");
 }
 ```
+
+##Inprovements:
+
+### 1. Store in browser the last page selection, when the page is refreshed, make active last accesed frame
+   [http://www.w3schools.com/js/js_cookies.asp](http://www.w3schools.com/js/js_cookies.asp)
+
+### 2. Buttons styling
+ - if you like, you can use another tag instead of button, like a <span> or <div> 
+ - define stile like: blue seleted one, red the rest of the buttons
+ - when a new button is selected switch collors
+ 
+### 3. Please remove from html page, css and javascript, using separeate files 
+  - for css  create style.css and include in page.html
+  - for js create script.js and include in page.html
+
+
