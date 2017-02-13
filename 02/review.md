@@ -8,9 +8,9 @@ Ce ai facut bine:
 * ai facut o galerie
 
 Ce nu ai facut bine, si pe viitor trebuie sa iei in considerare:
-* ai facut commit in foderul parinte, am zis ca se face commit pentru fiecare tema in acelasi folder
-* ai folosit pathuri absolute, in navigare se folsesc numai pathuri relative, eu de exemplu nu pot naviga pe path-urile de pe pc-ul tau, dar asta nu e asa de relevat pentru ca tu nu ai un server in spate la website, am pus doua linkuri in index.html sa vezi cum se face cu pathuri relative
-* taguri neinchise, browserele moderne stiu sa corecteze aceste probleme, dar site-ul tau are de suferit la indexarea de catre roboti motoarelor de cautare, exemplu cu probleme:
+* ai facut commit in foderul parinte, am zis ca se face commit pentru fiecare tema in acelasi folder --> am sters commit-ul de pe celalalt folder si am facut commit-nou pe folderul parinte;
+* ai folosit pathuri absolute, in navigare se folsesc numai pathuri relative, eu de exemplu nu pot naviga pe path-urile de pe pc-ul tau, dar asta nu e asa de relevat pentru ca tu nu ai un server in spate la website, am pus doua linkuri in index.html sa vezi cum se face cu pathuri relative --> am resetat path-urile folosind exemplul de la tine;
+* taguri neinchise, browserele moderne stiu sa corecteze aceste probleme, dar site-ul tau are de suferit la indexarea de catre roboti motoarelor de cautare, exemplu cu probleme:--> reverificat cod-ul si inchis toate tag-urile ,atentie sporita :);
 
 ```html
 <a href="somwhere.html">
