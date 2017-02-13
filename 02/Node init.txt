@@ -1,0 +1,14 @@
+- install node
+
+
+- run in console: node init
+
+Instalare module cu salvare
+
+- run in console: npm install module_name --save
+
+
+Instalare module din package.json: npm installs
+
+pentru un mic server urmeaza pasii:
+https://github.com/indexzero/http-server
